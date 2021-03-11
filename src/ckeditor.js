@@ -93,6 +93,17 @@ ClassicEditor.defaultConfig = {
         alignment: {
             options: [ 'left', 'right' ]
         },
+        fontSize: {
+            options: [
+                9,
+                11,
+                13,
+                'default',
+                17,
+                19,
+                21
+            ]
+        },
 	},
 	image: {
 		toolbar: [
