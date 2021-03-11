@@ -90,20 +90,17 @@ ClassicEditor.defaultConfig = {
 			'undo',
 			'redo'
 		],
-        alignment: {
-            options: [ 'left', 'right' ]
-        },
-        fontSize: {
-            options: [
-                9,
-                11,
-                13,
-                'default',
-                17,
-                19,
-                21
-            ]
-        },
+	},
+	fontSize: {
+		options: [
+			9,
+			11,
+			13,
+			'default',
+			17,
+			19,
+			21
+		]
 	},
 	image: {
 		toolbar: [
